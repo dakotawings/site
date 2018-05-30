@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>-- MARKET -- Real Estate Video Blog with -- CLIENT NAME --</title>
-    <description>Our mission at  is to be your best resource for  real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The , your professional  Real Estate Agents.</description>
+    <title></title>
+    <description>-- CLIENT NAME --, a top Real Estate Agent in , shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 May 2018 10:37:43 -0500</pubDate>
-    <lastBuildDate>Thu, 10 May 2018 10:37:43 -0500</lastBuildDate>
+    <pubDate>Wed, 30 May 2018 12:17:35 -0500</pubDate>
+    <lastBuildDate>Wed, 30 May 2018 12:17:35 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
