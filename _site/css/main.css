@@ -1238,15 +1238,15 @@ html[xmlns] .flexslider .slides {
   line-height: 70px;
   padding-top: 2rem;
   color: #fff;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  -webkit-filter: drop-shadow(0px 2px 7px #443248);
+  filter: drop-shadow(0px 2px 7px #443248); }
 
 .hero-cta-text {
   font-weight: 300;
   font-size: 20px;
   color: #fff;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  -webkit-filter: drop-shadow(0px 2px 7px #443248);
+  filter: drop-shadow(0px 2px 7px #443248); }
 
 .border {
   border-bottom: 5px solid #50c6d1; }
@@ -1333,12 +1333,12 @@ html[xmlns] .flexslider .slides {
   padding-top: 3rem;
   width: 90%;
   max-width: 60rem;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  -webkit-filter: drop-shadow(0px 2px 7px #443248);
+  filter: drop-shadow(0px 2px 7px #443248); }
 
 .site-title {
   color: white;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 0px 2px 7px #443248;
   text-transform: uppercase;
   font-size: 6.5rem;
   padding-bottom: 4rem;
@@ -1423,8 +1423,7 @@ html[xmlns] .flexslider .slides {
   border-radius: 0;
   min-height: 52px;
   background: #ffffff;
-  width: 100%;
-  overflow: hidden; }
+  width: 100%; }
 
 .navbar-andross .navbar-brand {
   color: #50c6d1;
@@ -1445,7 +1444,7 @@ html[xmlns] .flexslider .slides {
   color: black;
   padding: 0;
   text-transform: capitalize;
-  font-size: 2rem;
+  font-size: 18px;
   font-weight: 300; }
   .navbar-left > li > a:hover {
     background: #eeeeee;
@@ -1504,21 +1503,20 @@ html[xmlns] .flexslider .slides {
   padding: 10px; }
 
 .dropbtn {
-  background-color: #50c6d1;
-  color: white;
-  padding-top: 3.5rem;
+  background-color: #fff;
+  color: #000;
   font-size: 18px;
-  text-transform: uppercase;
   border: none; }
 
 .dropdown {
   position: relative;
   display: inline-block;
-  margin-top: 3rem; }
+  margin-top: 1rem; }
   .dropdown a {
-    padding: 35px 15px 15px 15px; }
+    padding: 5px; }
     .dropdown a:hover {
-      color: #fff; }
+      color: #50c6d1;
+      background: #eee !important; }
 
 .dropdown-content {
   display: none;
@@ -1617,8 +1615,8 @@ html[xmlns] .flexslider .slides {
 .site-logo {
   width: 90%;
   max-width: 40rem;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  -webkit-filter: drop-shadow(0px 2px 7px #443248);
+  filter: drop-shadow(0px 2px 7px #443248); }
 
 .site-title {
   color: #50c6d1;
@@ -2108,11 +2106,13 @@ table tr, table td {
   margin: auto; }
 
 .footer {
-  background: #0b1a1e;
-  color: #5d9bd3;
+  background: #0b1b1f;
+  color: #ffffff;
   padding: 2rem;
   text-align: center;
   font-size: 18px; }
+  .footer a {
+    color: #ffffff; }
   .footer hr {
     border-top: 2px solid #50c6d1; }
   .footer address {
@@ -2124,6 +2124,11 @@ table tr, table td {
     .footer .vyral-logo {
       height: 3rem;
       width: 3rem; } }
+.footer-logo {
+  width: 75%;
+  display: block;
+  margin: 0 auto; }
+
 .attribution {
   text-align: center; }
 
@@ -2314,3 +2319,54 @@ table tr, table td {
 @media(max-width: 750px) {
   .sm-hidden {
     display: none; } }
+.row {
+  margin: 0 !important; }
+
+.map-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0; }
+
+.map-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute; }
+
+form label {
+  display: block; }
+form textarea {
+  display: block;
+  padding: 0.5rem; }
+form select {
+  border: 1px solid #50c6d1;
+  padding: 0.5rem;
+  display: block; }
+
+.contact-form {
+  width: 75%;
+  margin-left: 13%; }
+  .contact-form input, .contact-form textarea {
+    width: 100%;
+    border: 1px solid gray; }
+  .contact-form:focus {
+    color: transparent; }
+  .contact-form textarea {
+    height: 15rem; }
+  .contact-form input[type="submit"] {
+    font-size: 1.5rem;
+    padding: 1rem;
+    border: 3px solid #50c6d1; }
+    .contact-form input[type="submit"]:hover {
+      background: #fff;
+      color: #50c6d1;
+      font-weight: bold;
+      border: 3px solid #50c6d1; }
+
+.contact {
+  font-size: 24px;
+  margin-bottom: 20px;
+  margin-left: 13%;
+  margin-top: 20px; }
