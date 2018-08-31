@@ -2342,7 +2342,17 @@ table tr, table td {
 
 .question {
   font-weight: bold;
-  color: #50c6d1; }
+  color: #e17146; }
+
+.courses-nav {
+  text-align: center;
+  padding: 2rem 0;
+  font-size: 26px; }
+  .courses-nav a {
+    font-size: 26px; }
+
+.course-title {
+  padding-top: 9rem; }
 
 form label {
   display: block; }

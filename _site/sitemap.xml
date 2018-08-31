@@ -7,10 +7,16 @@
 <loc>localhost:4000/about/</loc>
 </url>
 <url>
+<loc>localhost:4000/attitude-and-upset-training</loc>
+</url>
+<url>
 <loc>localhost:4000/clients/</loc>
 </url>
 <url>
 <loc>localhost:4000/contact/</loc>
+</url>
+<url>
+<loc>localhost:4000/courses/</loc>
 </url>
 <url>
 <loc>localhost:4000/faq/</loc>
