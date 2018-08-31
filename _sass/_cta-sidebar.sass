@@ -1,37 +1,228 @@
-.photo-cta
-  width: 100%
-  line-height: 20px
+.browse-container
+  width: 85%
   display: block
   margin: 0 auto
-  position: relative
-  margin-bottom: 20px
+  padding-bottom: 6rem
+  padding-top: 6rem
 
-.photo-cta-container
-  width: 70%
-  margin-left: 15%
-
-.cta-button
-  position: absolute
-  bottom: 20px
-  justify-content: center
+.browse-item
   display: block
-  color: $brand
-  background-color: #fff
-  border: 2px solid $brand
-  text-decoration: none
-  padding: 10px 20px
+  margin: 0 auto
   font-size: 20px
-  font-weight: bold
-  margin-left: auto
-  margin-right: auto
-  left: 100px
-  right: 100px
   text-align: center
-  a
-    color: $brand
+  width: 75%
+  text-transform: uppercase
+  color: $brand
+  // border-radius: 5px
+  padding: 1rem
+  background: rgba(238,238,238,.9)
   &:hover
-    border: 2px solid #fff
-    color: #fff
-    background-color: $brand
-    a
-      color: #fff
+    background: #fff
+    color: $brand
+    font-weight: bold
+    svg
+      @include transform(scale(1.05))
+      @include transform(translateY(-0.2rem))
+
+.browse-svg
+  width: 50px
+
+.homepage-bio
+  padding: 3rem
+
+.hero-home
+  background-position: center
+  background-size: cover
+  background-attachment: fixed
+#hero
+  background-position: center
+  background-size: cover
+  background-attachment: fixed
+  background-repeat: no-repeat
+  text-align: center
+
+.hero-cta
+  padding-top: $nav-height + 5rem
+  text-align: center
+  width: 75%
+  display: block
+  margin: 0 auto
+
+.cta-title
+  font-weight: 700
+  font-size: 60px
+  line-height: 70px
+  padding-top: 2rem
+  color: #fff
+  @include filter(drop-shadow($header-shadow))
+
+.hero-cta-text
+  font-weight: 300
+  font-size: 20px
+  color: #fff
+  @include filter(drop-shadow($header-shadow))
+
+.border
+  border-bottom: 5px solid $brand
+
+.simple-cta-container
+  width: 90%
+  background: rgba(238,238,238,.9)
+  margin: 0 auto
+  margin: 2rem
+  padding-bottom: 2.5rem
+  border-bottom: 5px solid $brand
+  &:hover
+    background: #fff
+
+.simple-side-cta-container
+  width: 90%
+  background: rgba(238,238,238,.9)
+  margin: 0 auto
+  margin: 2rem
+  padding-bottom: 2.5rem
+  border-bottom: 5px solid $brand
+
+.full-cta
+  background: #eee
+  width: 100%
+  border-bottom: 5px solid $brand
+  text-align:center
+
+.full-simple
+  max-width: 720px
+  margin: 0 auto
+  padding-bottom: 2.5rem
+
+
+.simple-cta-photo
+  width: 100%
+
+.secondary-cta-title
+  font-weight: 700
+  font-size: 23px
+  text-transform: uppercase
+  text-transform: uppercase
+  color: $brand
+  padding: 1rem
+  margin-bottom: 0
+
+
+.secondary-subtitle
+  font-size: 20px
+  color: #000
+  padding: 1rem
+  margin-bottom: 0
+
+.simple-cta
+  display: block
+  margin: 0 auto
+  font-size: 20px
+  text-align: left
+  padding-left: 1rem
+  // border-radius: 5px
+
+
+.simple-cta-link
+  justify-content: center
+  background: $brand
+  border: 1px solid $brand
+  border-radius: $button-radius
+  padding: 10px 20px
+  text-decoration: none
+  font-size: 18px
+  color: #ffffff
+  margin-left: 1rem
+  +transition
+  p
+    text-align: center
+  &:hover
+    background: #fff
+    color: $brand
+    border: 1px solid $brand
+  &:active
+    box-shadow: 0 0 0 $brand
+    @include transform(translateY(0rem))
+
+.home-logo
+  padding-top: 3rem
+  width: 90%
+  max-width: 60rem
+  @include filter(drop-shadow($header-shadow))
+
+.site-title
+  color: $header-font-color
+  text-shadow: $header-shadow
+  text-transform: uppercase
+  font-size: 6.5rem
+  padding-bottom: 4rem
+  margin-bottom: 0
+
+.videos
+  padding: 2rem 6rem 6rem 6rem
+
+.home-broker-logo
+  float: right
+  width: 75px
+  padding: 20px 20px 0 0
+
+.apply-button
+  margin: 3rem 0
+
+#apply
+  text-transform: capitalize
+  font-size: 20px
+
+@media (max-width: 1285px)
+  .site-title
+    font-size: 5rem
+  .browse-item
+    width: 90%
+  .hero-cta
+    width: 75%
+
+@media (max-width: 1024px)
+  .home-logo
+    max-width: 20rem
+  .home-broker-logo
+    width: 50px
+    padding-top: 2rem
+  .browse-item
+    width: 90%
+    padding: .5rem
+  .browse-container
+    width: 99%
+  .browse
+    padding: 0
+
+@media (max-width: 800px)
+  #hero
+    // height: 33rem
+  .home-logo
+    max-width: 20rem
+    margin-top: 4rem
+  .site-title
+    font-size: 5rem
+  .home-broker-logo
+    display: none
+  .cta-title
+    font-size: 45px
+    line-height: 50px
+  .browse-item
+    margin-top: 1rem
+  .browse-container
+    padding-top: 0
+
+
+
+@media (max-width: 600px)
+  .home-logo
+    max-width: 15rem
+    margin-top: 2rem
+  .site-title
+    font-size: 3.5rem
+  .cta
+    padding: 1rem
+@media (max-width: 400px)
+  .cta
+    padding: 0.5rem

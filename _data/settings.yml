@@ -1,46 +1,17 @@
-audit_header: false
 title:
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
-show_custom_links: true
-custom_links:
-  - title: Join Our Team
-    url: /join-our-team/
-  - title: Events
-    url: #
-  - title: Free Strategy Call
-    url: /strategy-call/
-  - title: Free Newsletter
-    url: /subscribe/
-
+description: Get your initial and recurring Pilot Flight Training with Dakota Wings
 
 client:
   name:
-  title:
-  license_number:
   about_markdown: |
+    When things happen - enjoy them. They're little gifts. In this world, everything can be happy. All you have to do is let your imagination go wild. Look around. Look at what we have. Beauty is everywhere you only have to look to see it.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
-  phone_type:
-  phone2:
-  phone2_type:
-  email:
+    There is immense joy in just watching - watching all the little creatures in nature. Don't be afraid to make these big decisions. Once you start, they sort of just make themselves. These things happen automatically. All you have to do is just let them happen.
+  brand: Dakota Wings
+  address: 123 Sesame Street<br>Omaha, Nebraska 68132
+  phone: 123-456-7890
+  email: example@email.com
   url:
-
-lender:
-  show_section: false
-  header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
-  logo_path: /img/logo.png
-  logo_path_2:
-  name: Bill Murray
-  brand: Lender Co.
-  phone: 555-555-5555
-  email: bill@murray.com
-  url: http://eyegoop.com
 
 socials:
   review_sm_icons: false
@@ -51,31 +22,21 @@ socials:
   twitter_url:
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
   podcast_url:
 
-podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
-  categories: Education
-  image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text:
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
-  post_cover: /img/cover.jpg
+
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#50c6d1'
+  theme_color: '#0b1b1f'
+  accent_color: '#e17146'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'

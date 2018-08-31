@@ -25,10 +25,6 @@
 								</div>
 		            {{item.name | prepend: '<p class="testimonial-attribute"> - ' | append: '</p>'}}
 								<div class="testimonial-audio">
-									{% if item.audio != null %}
-										<p>Listen to the whole Interview:</p>
-										<audio class="jp-player-simple" src="{{item.audio}}" preload="auto">Your browser does not support HTML5 audio, please <a href="http://browsehappy.com/">update your browser.</a></audio>
-									{% endif %}
 									<i class="fa fa-quote-right fa-2x"></i>
 								</div>
 							</div>
