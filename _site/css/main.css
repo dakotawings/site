@@ -2316,6 +2316,11 @@ table tr, table td {
   font-weight: 300;
   line-height: 30px; }
 
+.page-text {
+  margin-top: 3rem; }
+  .page-text p {
+    font-size: 18px; }
+
 @media(max-width: 750px) {
   .sm-hidden {
     display: none; } }
@@ -2334,6 +2339,10 @@ table tr, table td {
   height: 100%;
   width: 100%;
   position: absolute; }
+
+.question {
+  font-weight: bold;
+  color: #50c6d1; }
 
 form label {
   display: block; }

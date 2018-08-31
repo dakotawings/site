@@ -3,7 +3,13 @@ layout: default
 title: About
 permalink: /about/
 ---
+<div class="page-text">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse fermentum tellus eget nisl rutrum, ac lobortis sapien bibendum. Vestibulum et purus magna. Cras imperdiet eros massa, eu volutpat ante tempus in. Vivamus congue facilisis venenatis. Donec eros augue, dignissim in ante sit amet, lobortis vestibulum diam. Donec dictum lorem facilisis tincidunt cursus. Phasellus vel eros nibh. Nullam blandit nunc tincidunt est gravida faucibus. Donec ut semper diam, non lacinia libero. Aliquam in massa quam. Nullam vitae quam arcu. Proin tincidunt consectetur nunc vel sagittis. Nulla non feugiat nibh, sed laoreet justo.
+  <h1>About Us</h1>
 
-Vivamus porttitor dolor ut augue condimentum ultricies. Etiam vel orci pretium, tempus nunc eget, suscipit tellus. Phasellus nibh nunc, suscipit vitae sem in, tincidunt vulputate enim. Vestibulum consectetur nulla at ligula malesuada condimentum. Vestibulum sed dui vulputate, aliquet ipsum posuere, consequat est. Sed at nisl tempor, dictum tellus ac, placerat velit. Donec in malesuada nisi. Nam tincidunt nunc mollis dolor ultricies, ut ultricies leo porttitor.
+  <p>With practice comes confidence. Work on one thing at a time. Don't get carried away - we have plenty of time. It's a super day, so why not make a beautiful sky? Let all these little things happen. Don't fight them. Learn to use them.</p>
+
+  <p>Follow the lay of the land. It's most important. I really believe that if you practice enough you could paint the 'Mona Lisa' with a two-inch brush. Sometimes you learn more from your mistakes than you do from your masterpieces. The least little bit can do so much. From all of us here, I want to wish you happy painting and God bless, my friends.</p>
+
+  <p>This is your creation - and it's just as unique and special as you are. You can create anything that makes you happy. I can't think of anything more rewarding than being able to express yourself to others through painting. If what you're doing doesn't make you happy - you're doing the wrong thing.</p>
+</div>
