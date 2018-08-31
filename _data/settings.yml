@@ -1,14 +1,12 @@
-title:
+title: Dakota Wings
 description: Get your initial and recurring Pilot Flight Training with Dakota Wings
 
 client:
   name:
   about_markdown: |
-    When things happen - enjoy them. They're little gifts. In this world, everything can be happy. All you have to do is let your imagination go wild. Look around. Look at what we have. Beauty is everywhere you only have to look to see it.
-
-    There is immense joy in just watching - watching all the little creatures in nature. Don't be afraid to make these big decisions. Once you start, they sort of just make themselves. These things happen automatically. All you have to do is just let them happen.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum ac neque sit amet interdum. Sed eget ex nec arcu pretium malesuada in vitae purus. Sed imperdiet tincidunt pharetra. Cras commodo dignissim purus id scelerisque. Vivamus varius consequat scelerisque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla facilisi. Ut fringilla libero ut posuere placerat. Duis ullamcorper risus eget varius dignissim. Morbi vitae magna fermentum, venenatis risus non, placerat sapien.
   brand: Dakota Wings
-  address: 123 Sesame Street<br>Omaha, Nebraska 68132
+  address: 123 Sesame Street<br>Sioux Falls, SD 90210
   phone: 123-456-7890
   email: example@email.com
   url:
@@ -34,9 +32,9 @@ images:
   hero_image_path: /img/background.jpg
 
 site_colors:
-  brand_color: '#50c6d1'
-  theme_color: '#0b1b1f'
-  accent_color: '#e17146'
+  brand_color: '#185C72'
+  theme_color: '#263036'
+  accent_color: '#450726'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
