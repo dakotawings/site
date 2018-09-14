@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: courses
 title: Courses | Dakota Wings
 permalink: /courses/
 ---
@@ -7,26 +7,39 @@ permalink: /courses/
 
   <h1>Courses</h1>
 
-  {% include courses-nav.html %}
+  <p>At Dakota Wings, we are pleased to offer initial or recurrent training in Citation Mustangs or any of the Cessna CJ series aircraft. Our instructors are all current professional pilots and will tailor a course based on your needs and experience.</p>
 
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean mauris nisi, laoreet tincidunt posuere nec, aliquet maximus lacus. Sed nunc erat, vulputate vel ex sed, dictum tempor sapien. Morbi ultrices vitae mi non imperdiet. Fusce fermentum pharetra orci, quis pellentesque felis luctus ut. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce vel dapibus mi, dapibus congue risus. Pellentesque vel augue elementum, elementum eros id, placerat nulla. Quisque a mauris magna. Suspendisse sem nisi, semper in euismod non, convallis non lectus. Mauris vitae erat eget lectus condimentum dignissim. Phasellus in arcu non nulla faucibus dictum sed vitae orci. Praesent iaculis, nisl eget rutrum auctor, ipsum lacus consequat ante, vel porttitor sapien ex vitae nisi. Ut consectetur consequat leo, eu placerat metus faucibus nec. Fusce hendrerit vel magna a efficitur. Pellentesque et ex eu tortor ultricies ultricies. Donec molestie enim et tellus commodo malesuada.</p>
+  <h1><a href="/citation-mustang/">Citation Mustang Training</a></h1>
 
-  <h2><a name="citation" class="course-title">Citation Training</a></h2>
+  <p>Our focus is to provide you with training that is customized to your experience level. We offer training for PIC Single Pilot type ratings, PIC Crew type ratings, and SIC only type ratings. Our training is in aircraft training with your aircraft or ours.</p>
 
-  <p>Aenean consectetur aliquet tincidunt. Vestibulum elit arcu, bibendum non metus eget, vehicula mollis mauris. Etiam velit ex, ultricies nec velit id, faucibus ultrices lorem. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce rutrum nisi in lobortis vulputate. Nunc nec scelerisque felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+  <h3>Requirements</h3>
+  <ul>
+  <li>Current Medical</li>
+  <li>Private, Commercial, or Airline Transport Pilot License</li>
+  <li>Multi-Engine Class Rating</li>
+  <li>Instrument Airplane Rating</li>
+  </ul>
 
-  <p>Etiam vehicula condimentum egestas. Sed id semper massa. Praesent mauris lacus, commodo sit amet placerat a, aliquet eu ligula. Nunc efficitur vehicula magna, vel lacinia dolor accumsan quis. Fusce dapibus et massa id cursus. Suspendisse ac diam at eros pellentesque pretium. Mauris fringilla massa sed consequat gravida.</p>
+  <a href="/citation-mustang" class="course-link">
+    More
+  </a>
+  <div class="whitespace"></div>
 
-  <h2><a name="Mustang" class="course-title">Mustang Training</a></h2>
+  <h1><a href="/cj/">CJ Training</a></h1>
 
-  <p>Aenean efficitur quam nibh, at ultrices tortor tempor eu. Donec id dui vitae lectus iaculis tempus vitae ut ipsum. Vivamus velit nunc, eleifend auctor congue id, tempus laoreet turpis. Donec vitae sem risus. Pellentesque scelerisque porta enim a malesuada. Nullam non iaculis mi. Curabitur ut mi molestie, eleifend purus nec, efficitur felis. In iaculis tellus sed est congue pharetra. Aliquam vitae leo sed ante volutpat condimentum quis eu justo. Vivamus sollicitudin varius sapien ut posuere. Donec et tortor nisi. Praesent vehicula augue sed lectus euismod molestie. Donec consequat eu libero quis dapibus. Vestibulum porttitor eget mauris vel rhoncus. Proin eu feugiat nisl, nec dignissim dui. In bibendum nulla nec fermentum feugiat.</p>
+  <p>Let our current professional pilots build a training schedule to fit your experience level in any of the CJ models. That includes, CJ, CJ1, CJ1+, CJ2, CJ2+, CJ3, CJ3+, CJ4, and M2. We offer training for PIC Single Pilot type ratings, PIC Crew type ratings, and SIC only type ratings.</p>
 
-  <p>Suspendisse malesuada nisi ut mattis dictum. Duis pretium suscipit lorem et ultricies. Donec lacus tellus, interdum a tincidunt sit amet, iaculis quis sapien. Cras orci quam, imperdiet at eros sit amet, tristique facilisis orci. Phasellus porttitor lobortis lorem, a facilisis augue bibendum in. Mauris nec rutrum lectus. Aliquam congue ante in quam facilisis, quis fermentum justo pharetra. Nam rutrum egestas leo in lacinia. Nulla efficitur in enim a cursus. Sed aliquet lacinia metus, quis tincidunt urna condimentum id. Aenean lobortis eget diam sed cursus.</p>
+  <h3>Requirements</h3>
+  <ul>
+    <li>Private, Commercial, or Airline Transport Pilot License</li>
+    <li>Multi-Engine Class Rating</li>
+    <li>Instrument Airplane Rating</li>
+  </ul>
 
-  <h2><a name="3" class="course-title">Course 3</a></h2>
-
-  <p>Nulla dictum justo sit amet eleifend cursus. Fusce imperdiet eget arcu vel pharetra. Nullam laoreet tincidunt dignissim. Curabitur volutpat dui scelerisque justo consectetur, in pellentesque nulla pharetra. Pellentesque finibus enim nec lacinia convallis. Sed diam purus, tincidunt ut vehicula nec, finibus et nunc. Quisque eget bibendum lorem, efficitur scelerisque ipsum. Sed ultrices convallis ante. Aliquam at sapien laoreet, ultricies neque ac, vestibulum dolor. Sed bibendum ex in sapien eleifend, sit amet ullamcorper tortor mollis. Curabitur sed consequat dolor.</p>
-
-  <p>Proin hendrerit et lectus vitae commodo. Donec condimentum dictum orci id varius. Duis nec ultrices ligula. Vestibulum scelerisque egestas nunc, sit amet blandit diam tempor id. Aenean aliquet sagittis neque, eget accumsan dolor. In commodo mattis augue, euismod porttitor enim. Quisque ac tristique mi. Quisque odio odio, porta et faucibus in, blandit ut arcu.</p>
+  <a href="/cj" class="course-link">
+    More
+  </a>
+  <div class="whitespace"></div>
 
 </div>
