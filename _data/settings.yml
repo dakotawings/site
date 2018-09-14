@@ -3,7 +3,7 @@ description: At Dakota Wings, we are pleased to offer initial or recurrent train
 client:
   name:
   about_markdown: |
-    Dakota Wings is committed to quality education. We provide each of our customers the tools, training, certifications, and knowledge to safely fly the aircraft. All of the Dakota Wings Certified Flight Instructors are currently employed as corporate, charter, or military pilots and are actively flying the aircraft that they are teaching. Dakota Wings operates out of Sioux Falls Regional Airport. 
+    Dakota Wings is committed to quality education. We provide each of our customers the tools, training, certifications, and knowledge to safely fly the aircraft. All of the Dakota Wings Certified Flight Instructors are currently employed as corporate, charter, or military pilots and are actively flying the aircraft that they are teaching. Dakota Wings operates out of Sioux Falls Regional Airport.
   brand: Dakota Wings
   address: 2801 N Jaycee Ln<br>Sioux Falls, SD 57104
   phone: 605-695-5216
@@ -25,7 +25,6 @@ socials:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
   hero_text:
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
