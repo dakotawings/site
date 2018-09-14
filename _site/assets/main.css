@@ -1077,7 +1077,7 @@ html[xmlns] .flexslider .slides {
   background: rgba(0, 0, 0, 0.7); }
 
 .flex-control-paging li a.flex-active {
-  background: rgba(6, 89, 96, 0.9);
+  background: rgba(9, 133, 144, 0.9);
   cursor: default; }
 
 .flex-control-thumbs {
@@ -1447,8 +1447,7 @@ html[xmlns] .flexslider .slides {
   font-weight: 300; }
   .navbar-left > li > a:hover {
     background: #eeeeee;
-    color: #065960; }
-  .navbar-left > li > a:active {
+    color: #098590;
     -webkit-transform: translateY(0rem);
     transform: translateY(0rem);
     text-decoration: none;
@@ -1465,7 +1464,7 @@ html[xmlns] .flexslider .slides {
   font-weight: 300; }
   .cta:hover {
     background: #eeeeee;
-    color: #065960; }
+    color: #098590; }
   .cta:active {
     text-decoration: none;
     color: #098590; }
@@ -2263,7 +2262,7 @@ table tr, table td {
   font-weight: 300; }
   .cta:hover {
     background: #eeeeee;
-    color: #065960; }
+    color: #098590; }
   .cta:active {
     text-decoration: none;
     color: #098590; }
