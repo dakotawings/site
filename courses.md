@@ -11,13 +11,13 @@ permalink: /courses/
 
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean mauris nisi, laoreet tincidunt posuere nec, aliquet maximus lacus. Sed nunc erat, vulputate vel ex sed, dictum tempor sapien. Morbi ultrices vitae mi non imperdiet. Fusce fermentum pharetra orci, quis pellentesque felis luctus ut. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce vel dapibus mi, dapibus congue risus. Pellentesque vel augue elementum, elementum eros id, placerat nulla. Quisque a mauris magna. Suspendisse sem nisi, semper in euismod non, convallis non lectus. Mauris vitae erat eget lectus condimentum dignissim. Phasellus in arcu non nulla faucibus dictum sed vitae orci. Praesent iaculis, nisl eget rutrum auctor, ipsum lacus consequat ante, vel porttitor sapien ex vitae nisi. Ut consectetur consequat leo, eu placerat metus faucibus nec. Fusce hendrerit vel magna a efficitur. Pellentesque et ex eu tortor ultricies ultricies. Donec molestie enim et tellus commodo malesuada.</p>
 
-  <h2><a name="1" class="course-title">Course 1</a></h2>
+  <h2><a name="citation" class="course-title">Citation Training</a></h2>
 
   <p>Aenean consectetur aliquet tincidunt. Vestibulum elit arcu, bibendum non metus eget, vehicula mollis mauris. Etiam velit ex, ultricies nec velit id, faucibus ultrices lorem. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce rutrum nisi in lobortis vulputate. Nunc nec scelerisque felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 
   <p>Etiam vehicula condimentum egestas. Sed id semper massa. Praesent mauris lacus, commodo sit amet placerat a, aliquet eu ligula. Nunc efficitur vehicula magna, vel lacinia dolor accumsan quis. Fusce dapibus et massa id cursus. Suspendisse ac diam at eros pellentesque pretium. Mauris fringilla massa sed consequat gravida.</p>
 
-  <h2><a name="2" class="course-title">Course 2</a></h2>
+  <h2><a name="Mustang" class="course-title">Mustang Training</a></h2>
 
   <p>Aenean efficitur quam nibh, at ultrices tortor tempor eu. Donec id dui vitae lectus iaculis tempus vitae ut ipsum. Vivamus velit nunc, eleifend auctor congue id, tempus laoreet turpis. Donec vitae sem risus. Pellentesque scelerisque porta enim a malesuada. Nullam non iaculis mi. Curabitur ut mi molestie, eleifend purus nec, efficitur felis. In iaculis tellus sed est congue pharetra. Aliquam vitae leo sed ante volutpat condimentum quis eu justo. Vivamus sollicitudin varius sapien ut posuere. Donec et tortor nisi. Praesent vehicula augue sed lectus euismod molestie. Donec consequat eu libero quis dapibus. Vestibulum porttitor eget mauris vel rhoncus. Proin eu feugiat nisl, nec dignissim dui. In bibendum nulla nec fermentum feugiat.</p>
 

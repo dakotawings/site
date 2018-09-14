@@ -25,7 +25,7 @@
 				{{ site.data.settings.client.phone_type }}: {{ site.data.settings.client.phone }}<br />
 				{{ site.data.settings.client.phone2_type }}: {{ site.data.settings.client.phone2 }}<br />
 				{% else %}
-				{{ site.data.settings.client.phone }}<br />
+				<a href="tel:1-{{ site.data.settings.client.phone }}">{{ site.data.settings.client.phone }}</a><br />
 				{% endif %}
 				<a href="mailto:{{ site.data.settings.client.email }}" target="_blank">{{ site.data.settings.client.email }}</a><br />
 				<a href="{{ site.data.settings.client.url }}" target="_blank">{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}</a><br />
