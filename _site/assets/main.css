@@ -1552,13 +1552,6 @@ html[xmlns] .flexslider .slides {
   .hero-img {
     height: 300px; }
 
-  .dropdown-content {
-    display: inline;
-    position: relative; }
-    .dropdown-content a {
-      margin-left: 3rem;
-      color: #098590; }
-
   .nav-logo-small {
     max-width: 30rem;
     margin-top: -10px; } }
@@ -1647,7 +1640,7 @@ html[xmlns] .flexslider .slides {
     padding-top: 2.5rem; }
 
   .hero-img {
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     height: 229px; }
 
@@ -1658,12 +1651,6 @@ html[xmlns] .flexslider .slides {
   .site-title {
     font-size: 5rem; } }
 @media (max-width: 600px) {
-  #hero {
-    padding-top: 4rem; }
-
-  .hero-img {
-    height: 190px; }
-
   .site-logo {
     max-width: 15rem;
     margin-top: 2rem; }
@@ -1674,12 +1661,6 @@ html[xmlns] .flexslider .slides {
   .cta {
     padding: 1rem; } }
 @media (max-width: 400px) {
-  #hero {
-    padding-top: 5.5rem; }
-
-  .hero-img {
-    height: 134px; }
-
   .cta {
     padding: 0.5rem; } }
 :root {
