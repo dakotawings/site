@@ -1636,9 +1636,6 @@ html[xmlns] .flexslider .slides {
   .site-logo {
     max-width: 20rem; } }
 @media (max-width: 767px) {
-  .hero-home {
-    background-attachment: scroll; }
-
   #hero {
     padding-top: 2.5rem; }
 
