@@ -1378,6 +1378,9 @@ html[xmlns] .flexslider .slides {
   .browse {
     padding: 0; } }
 @media (max-width: 767px) {
+  .hero-home {
+    height: 996px; }
+
   .home-logo {
     max-width: 20rem;
     margin-top: 4rem; }
