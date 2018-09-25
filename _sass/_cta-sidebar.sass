@@ -33,12 +33,6 @@
   background-position: center
   background-size: cover
   background-attachment: fixed
-#hero
-  background-position: center
-  background-size: cover
-  background-attachment: fixed
-  background-repeat: no-repeat
-  text-align: center
 
 .hero-cta
   padding-top: $nav-height + 5rem
@@ -67,8 +61,7 @@
 .simple-cta-container
   width: 90%
   background: rgba(238,238,238,.9)
-  margin: 0 auto
-  margin: 2rem
+  margin: 2rem auto
   padding-bottom: 2.5rem
   border-bottom: 5px solid $brand
   &:hover
@@ -86,7 +79,7 @@
   background: #eee
   width: 100%
   border-bottom: 5px solid $brand
-  text-align:center
+  text-align: center
 
 .full-simple
   max-width: 720px
@@ -194,9 +187,7 @@
   .browse
     padding: 0
 
-@media (max-width: 800px)
-  #hero
-    // height: 33rem
+@media (max-width: 767px)
   .home-logo
     max-width: 20rem
     margin-top: 4rem
@@ -211,6 +202,8 @@
     margin-top: 1rem
   .browse-container
     padding-top: 0
+  .sidebar
+    display: none !important
 
 
 
