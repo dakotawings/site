@@ -28,10 +28,10 @@ images:
   hero_text:
   hero_background_hex: '#fff'
   hero_image_path: /img/background.jpg
-  hero_mustang_image_path: /img/mustang-hero.jpg
+  hero_mustang_image_path: /img/mustang-hero1.jpg
   hero_cj_image_path: /img/cj-hero.jpg
   hero_courses_image_path: /img/courses-hero.jpg
-  hero_contact_image_path: /img/contact-hero.jpg
+  hero_contact_image_path: /img/contact-hero1.jpg
   hero_about_image_path: /img/about-hero.jpg
   hero_search_image_path: /img/search-hero.jpg
 
