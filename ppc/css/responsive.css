@@ -1,0 +1,64 @@
+@media(max-width: 1199px)
+{
+.hero-intro h1{font-size: 35px;}
+}
+
+@media(max-width: 991px)
+{	
+.container{width:100%;}
+.contact-form form h3{font-size:20px;}
+section{padding: 50px 0;}
+
+}
+@media(max-width:768px)
+{
+.hero-intro{padding:0;}	
+.hero-intro h1,	
+.hero-intro h1 span{font-size:24px;line-height: normal;}	
+.contact-form form{padding: 26px 40px 22px;}
+.navbar-brand.smog-check > img{margin: 0;max-height: 75px;}
+.hero-intro h4 {font-size: 17px;}
+	
+}
+/* ============================ */
+@media(max-width: 767px)
+{
+body{font-size:16px;}	
+.padd_0{padding:0 15px !important;}	
+.navbar-brand{width:100%;text-align: center;}	
+.navbar-brand img{display:inline-block;max-height: 40px;}
+.contact-form {padding: 0 15px;}	
+.call-us{float:left;width:100%;text-align: center;background:#f53a38;color: #fff;font-size: 20px;padding: 13px 0;max-width: 100%;}
+.call-us i{float:none;display: inline-block;color:#d90000;background:#fff;margin: 0 5px 0 0;}
+.call-us p{color: #fff;text-align: center;}	
+.hero{padding: 40px 0;}
+.hero-intro{padding: 0 0 20px;text-align:center;}
+.hero-intro P{text-align:center;font-size:16px;line-height:normal;}
+.hero-intro h1{font-size: 24px;}
+.list{text-align:left;margin:0 auto;width:auto;display: inline-block;padding:0;}
+.call-us a{color:#fff;}
+.header .container{padding:0;}
+.header .container .navbar-header{margin:0;}
+.hero-intro h1{text-align: center;}
+.copyright{font-size: 13px;padding: 20px 0;}
+.title{font-size: 23px;letter-spacing: 0;}
+p{text-align:justify;}
+.title{text-align:center;display: inherit;}
+/* .title.text-left:after{left: 50%;margin-left: -75px;} */
+/* .list li{font-size: 14px;padding: 0 0 10px 21px;} */
+/* .list > li::before{    height: 15px;width: 15px;} */
+.training-box{margin:25px 0 25px;}
+.box-content{min-height:auto;}
+.contact-form form{padding: 28px 38px;}
+.thankyou{padding: 5rem 0;}
+.thankyou p{text-align: center;}
+.title{margin: 0 0 30px;}
+.navbar-static-top{padding: 0;}
+.box-image{text-align:center}
+.box-image img{width:100%}
+.box-image .title{text-align:left;}
+.hero-intro h1 span{display: inline;}
+.hero-intro h1{padding: 0;margin: 0;}
+
+
+}

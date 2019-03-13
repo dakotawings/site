@@ -1,0 +1,177 @@
+@import "ionicons.min.css";@import "animate.min.css";
+body{color:#999999;font-family: 'Poppins', sans-serif;font-size:18px;text-rendering:optimizelegibility;
+font-weight:300;color:#999999;}
+/* =========================== Global  Theme Style ================================== */
+.container-fluid{max-width:1600px;}
+.modal-open{padding-right:0 !important;overflow:auto;}
+h1, h2, h3, h4, h5, h6{font-weight:500;font-family: 'Oswald', sans-serif;color:#285262}
+img{max-width:100%;}
+a{color:#2d6594;transition:all 0.5s ease-in-out 0s;}
+ul{padding: 0 15px;margin:0;}
+a:hover, a:focus{outline:none;color:#f00;text-decoration:none;}
+section{padding:50px 0;}
+p{line-height:27px;}
+strong{font-weight:500;}
+.form-group.mar_right_0{margin-right:0}
+.padd_0 {padding: 0 !important;}
+.padd_left_0 {padding-left: 0 !important;}
+.padd_right_0 {padding-right: 0 !important;}
+.bg-gray{background:#eee;}
+/* ======  Buttons ===== */
+.btn{border:none;border-radius:2px;padding:8px 20px;font-size:15px;text-transform:capitalize;font-weight:600;transition:all 0.5s ease-in-out 0s;text-transform:uppercase;font-family: 'Oswald', sans-serif;}
+.btn-lg{font-size:17px;padding:15px 35px;}
+.btn-primary{background:#f53a38;}
+.btn-primary:hover{background:#0d3d4f;}
+.btn-white{background:#fff;color:#ff8100;}
+.btn.round{border-radius:40px;}
+/* =========================== Global  Theme Style END ================================== */
+.navbar-brand{height:auto;padding:16px 10px;margin-left: 0 !important;}
+.navbar-brand>img {max-height: 75px;}
+.navbar-static-top{background:#fff;border:medium none;width:100%;transition: all 0.3s ease-in-out;margin:0;padding:5px 0;}
+.navbar-brand.smog-check>img{margin: 0 0 -57px;max-height: 130px;}
+.navbar-toggle{font-size:38px;line-height:normal;padding:6px 10px;}
+.navbar-toggle:hover{color:#EB6133;}
+.navbar-static-top.fixed{position:fixed;padding:0;border:none;}
+.fixed.navbar-static-top,.transp-header .fixed.navbar-static-top{background:#fff;/* box-shadow:0 0 2px #a5a5a5; */}
+.transp-header .navbar-static-top{background:none;position:absolute;top:0}
+.transp-header .hero{padding: 101px 0 60px;}
+.call-us{float: right;font-size:28px;font-weight:500;font-family: 'Oswald', sans-serif;line-height: 25px;color:#285262;
+text-align: right;padding:26px 0;text-transform:uppercase;}
+.call-us a{color:#f53a38;}
+.call-us a:hover{color:#285262;}
+.call-us i
+{
+    color:#f53a38;
+    margin:-4px 5px 0 0;
+   float: left; 
+	display: inline-block;
+    height: 34px;
+    width: 34px;
+    line-height:30px;
+    border-radius: 100%;
+    padding: 0;
+    text-align: center;
+    font-size: 17px;
+	border:2px solid #f53a38;
+}
+.call-us p{font-size: 15px;color: #777777;font-weight:500;margin: 0;}
+.transp-header .call-us{color: #fff;}
+.transp-header .call-us a{color:#fff;}
+.transp-header .call-us i{color:#fff;border: 2px solid #fff;}
+
+.seals{text-align: center;padding:16px 0;}
+.title{position: relative;
+    font-size: 29px;
+    font-weight:400;
+    margin: 0 0 40px;
+    color: #285262;
+    letter-spacing: 0;
+    line-height: normal;text-transform:uppercase;}
+.title.blue-underline:after{
+    position: absolute;
+    width:150px;
+    content: "";
+    bottom: -15px;
+    background:#f53a38;
+    left: 50%;
+    height:3px;
+    margin-left:-75px;
+}
+.title.text-left:after {
+    left: 0;
+    margin-left: 0;
+}
+.text-primary{color:#0e84cd;}
+/* ================ section-title END================= */
+.about .about-image{margin-top:70px;}
+/* ================ Common Form ================= */
+.form-group.has-feedback{position:relative;margin-bottom: 10px;}
+.has-feedback > i{ font-size: 18px; left: 18px; position: absolute;top: 12px;color: #999;}
+.form-control{border-radius:2px;box-shadow: none;font-size:16px; min-height: 48px;
+    padding-left:15px;padding-right:0;border-color: #bbb;}
+.has-feedback .form-control{padding-right: 0;}	
+.form-control:focus{ border: 1px solid #99c6de;}
+.fancy-select .form-control{ -webkit-appearance: none;-moz-appearance:none; appearance:none;}
+.has-feedback.fancy-select  i.arrow{left:auto;	right:15px;}
+
+form .navbar-brand{background: #fff;padding: 45px 15px 65px;position: relative;margin-bottom: 50px;width: auto;text-align: center;float: none;display: inline-block;}
+form .navbar-brand img{display: inline-block;}
+form .navbar-brand:after{position: absolute;bottom: -48px;content: "";border-top: 4rem solid #fff;width: 100%;height: 48px;left: 0;
+border-left: 14.5rem solid transparent;border-right: 14.5rem solid transparent;}
+
+/* ================ Common Form END ================= */
+
+/* ================ list================= */
+.list{list-style:none;padding:0;}
+.list li{color:#000;font-size:19px;font-weight:500;padding:4px 0px 4px 28px;position: relative;font-family: 'Oswald', sans-serif;}
+.list.text-white li{color:#fff}
+.list > li::before{position: absolute;font-family: ionicons;font-size: 14px;left: 0;top:9px;
+    content: "";color: #fff;background: #f53a38;
+    border-radius: 100%;
+    height:20px;
+    width: 20px;
+    padding: 0;
+    line-height:23px;
+    text-align: center;
+    vertical-align: middle;}
+.list.arrow > li:before{content:"\f10a";}
+.list.check > li{padding-right:20px;}
+.list.check > li:before{content:"\f121";}
+.list.numbering{counter-reset:li;}	
+.list.numbering li{padding:9px 0 9px 50px;font-weight:500;}	
+.list.numbering>li::before{font-family: 'Oswald', sans-serif;content:counter(li);counter-increment:li;font-size:20px;left:0;top:11px;background:#336601;
+    color: #fff;height:40px;width:40px;border-radius: 100%;text-align: center;line-height:40px;font-weight: bold;}
+
+/* ================ list END================= */
+
+/* =========================== HERO ========================= */
+
+.hero{position: relative;background:#4dc5cd;position:relative;background-size: cover !important;
+    background-repeat:no-repeat !important;background-position:top center !important;padding: 35px 0;}
+.hero .container{position:relative}	
+.hero-intro{position: relative;padding:5rem 0 0;}
+.hero-intro h1{color: #fff;font-size:50px;font-weight:300;display: inline-block;
+    padding:3px 28px 8px 0;letter-spacing: -1px;position:relative;line-height: 60px;}
+.hero-intro h1 span{color:#f53a38;display:block;font-weight:700;}
+.hero-intro p{line-height:30px;font-size:20px;color:#fff}
+.hero-intro p span{color:#d9362d;font-weight:500;}
+.hero-intro h4{font-size:25px;color:#fff;}
+.hero .seals{margin-top:20px}
+.hero .seals img:first-child{margin-right:30px;}
+.hero .list{margin-top:15px;}
+/* FORM */
+/* .contact-form{padding:0} */
+.contact-form .form-group{margin-bottom:10px;}
+.transp-header .contact-form{padding:0 20px;}
+.contact-form form{background:#fff;padding:30px 45px;border-radius: 2px;}
+.contact-form form h3{font-size:25px;margin-bottom: 35px;font-weight:500;letter-spacing: -0.5px;}
+.contact-form form p{font-size: 16px;padding: 0 2px;}
+.transp-header .contact-form form{background:#fff;padding: 35px 60px 30px;}
+.transp-header .contact-form form .form-control{background:#f1f1f1;border-color: #ddd;}
+.transp-header .contact-form form h3{color: #016dd9;}
+/* FORM */
+
+/* =========================== HERO ========================= */
+.copyright{background:#0d3d4f;line-height: normal;padding: 30px 0;text-align: center;color:#fff;text-transform:uppercase;font-family: 'Oswald', sans-serif;font-weight:500}
+.copyright a{color:#fff;}
+.copyright a:hover{color:#f00;}
+/* ================ copyright END================= */
+
+/* ================  Thankyou ====================== */
+
+.thankyou{padding:15rem 0;text-align:center;}
+.thankyou h1{color:#000;font-weight:600;}
+.thankyou .icon{font-size: 55px;color: #6cc700;display: block;font-weight: normal;border-radius: 100%;
+    border: 3px solid #6cc700;height: 100px;width: 100px;line-height: 100px;margin: 60px auto 0;}
+.thankyou p	{font-size:20px;color:#999;font-weight:100;}
+.thankyou p strong{color:#000;}
+.thankyou p a{color: #ff0000;font-weight:600;font-family: Montserrat;}
+
+/* ================  Thankyou END ====================== */
+
+.training-box{border-radius: 3px;box-shadow: 0px 5px 6px #a2d1cf;margin-bottom: 25px;}
+.box-image{position:relative;}
+.box-content{padding: 30px 35px;min-height: 401px;}
+.box-image .title{position:absolute;bottom:0;color:#fff;font-size: 25px;font-weight:500;left:25px}
+.modal-footer{text-align:center}
+.modal .contact-form form{padding:30px 30px 0}
