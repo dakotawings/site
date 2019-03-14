@@ -91,6 +91,7 @@ text-align: right;padding:26px 0;text-transform:uppercase;}
     padding-left:15px;padding-right:0;border-color: #bbb;}
 .hs-input { background-color: #fff; height: 43px; line-height: 19px; border-width: 1px; border-style: solid; border-image: initial;
 margin: 8px 0px; color: #000; border-radius: 2px; box-shadow: none; font-size: 16px; border-color: #bbb;}
+textarea.hs-input { padding: 10px 15px; height: 90px; resize: none; }
 .has-feedback .form-control{padding-right: 0;}	
 .form-control:focus{ border: 1px solid #99c6de;}
 .fancy-select .form-control{ -webkit-appearance: none;-moz-appearance:none; appearance:none;}
