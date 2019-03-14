@@ -89,6 +89,8 @@ text-align: right;padding:26px 0;text-transform:uppercase;}
 .has-feedback > i{ font-size: 18px; left: 18px; position: absolute;top: 12px;color: #999;}
 .form-control{border-radius:2px;box-shadow: none;font-size:16px; min-height: 48px;
     padding-left:15px;padding-right:0;border-color: #bbb;}
+.hs-input { background-color: #fff; height: 43px; line-height: 19px; border-width: 1px; border-style: solid; border-image: initial;
+margin: 8px 0px; color: #000; border-radius: 2px; box-shadow: none; font-size: 16px; border-color: #bbb;}
 .has-feedback .form-control{padding-right: 0;}	
 .form-control:focus{ border: 1px solid #99c6de;}
 .fancy-select .form-control{ -webkit-appearance: none;-moz-appearance:none; appearance:none;}
@@ -98,6 +100,13 @@ form .navbar-brand{background: #fff;padding: 45px 15px 65px;position: relative;m
 form .navbar-brand img{display: inline-block;}
 form .navbar-brand:after{position: absolute;bottom: -48px;content: "";border-top: 4rem solid #fff;width: 100%;height: 48px;left: 0;
 border-left: 14.5rem solid transparent;border-right: 14.5rem solid transparent;}
+ul.hs-error-msgs { list-style: none; padding: 0;  font-size:12px;}
+.hs-form-field label { display: none; }
+ul.hs-error-msgs label { display: block; color: red; }
+input.hs-button.primary.large { background: #f53a38; padding: 15px 35px; font-size: 17px; border: none; border-radius: 2px;
+	font-weight: 600; text-transform: uppercase; font-family: 'Oswald', sans-serif; width: 100%; display: block;
+	color: #fff; }
+input.hs-button.primary.large:hover{ background-color: #204d74; border-color: #122b40;}
 
 /* ================ Common Form END ================= */
 
