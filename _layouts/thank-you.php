@@ -33,7 +33,7 @@
 <header class="navbar navbar-static-top header" id="top" role="slider">
 	<div class="container">
 	<div class="navbar-header">
-	<a href="" class="navbar-brand"><img  src="images/logo.png" alt=""></a>
+	<a href="" class="navbar-brand"><img  src="/ppc/images/logo.png" alt=""></a>
 	</div>	
 	
 	<div class="call-us"><i class="ion-android-call"></i>Call Us! <a href="tel:605-299-2204">605-299-2204</a>	
@@ -44,7 +44,7 @@
 
 <!-- ====================Hero =====================-->
 
-<section class="hero" style="background:url('images/hero.jpg')">
+<section class="hero" style="background:url('/ppc/images/hero.jpg')">
         <div class="container">		 
 		<div class="row">
 		     <div class="col-md-12 wow fadeIn" style="height: 70vh;">	
