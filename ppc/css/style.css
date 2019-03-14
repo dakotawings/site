@@ -1,5 +1,5 @@
 @import "ionicons.min.css";@import "animate.min.css";
-body{color:#999999;font-family: 'Poppins', sans-serif;font-size:17px;text-rendering:optimizelegibility;
+body{color:#999999;font-family: 'Poppins', sans-serif;font-size:17px;text-rendering:optimizelegibility; 
 font-weight:300;color:#999999;}
 /* =========================== Global  Theme Style ================================== */
 .container-fluid{max-width:1600px;}
