@@ -106,8 +106,8 @@ ul.hs-error-msgs { list-style: none; padding: 0;  font-size:12px;}
 ul.hs-error-msgs label { display: block; color: red; }
 input.hs-button.primary.large { background: #f53a38; padding: 15px 35px; font-size: 17px; border: none; border-radius: 2px;
 	font-weight: 600; text-transform: uppercase; font-family: 'Oswald', sans-serif; width: 100%; display: block;
-	color: #fff; }
-input.hs-button.primary.large:hover{ background-color: #204d74; border-color: #122b40;}
+	color: #fff; transition:all 0.5s ease-in-out 0s;}
+input.hs-button.primary.large:hover{ background-color: #204d74; border-color: #122b40; transition:all 0.5s ease-in-out 0s;}
 
 /* ================ Common Form END ================= */
 
